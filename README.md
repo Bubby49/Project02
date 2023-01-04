@@ -27,14 +27,18 @@ Includes an interactive chat bot for a better interface.
 Screenshots
 
 About Us -
+![Screenshot (1)](https://user-images.githubusercontent.com/92115037/210601955-37e9df43-b8e8-4cad-a5b2-1a8de1c7eedd.png)
 
 
 Services -
+![Screenshot (2)](https://user-images.githubusercontent.com/92115037/210602099-338ad06d-9cbb-410a-810a-ea3800a26e68.png)
 
 Contact us -
+![Screenshot (3)](https://user-images.githubusercontent.com/92115037/210602219-37858d82-981a-41d2-acdc-b77f5ddef224.png)
 
 
 Bot -
+![Screenshot (4)](https://user-images.githubusercontent.com/92115037/210602530-86610c57-de92-44f4-bc55-729f00b65178.png)
 
 
 HTML
