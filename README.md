@@ -5,6 +5,7 @@ project demo video link -
 January 4, 2023 GUTTULA DHANUSH.
 
 ✨ LOTUS ✨
+
 This is a web based application developed for Education related based website in india
 
 This web based education application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Github.
@@ -40,6 +41,8 @@ Contact us -
 Bot -
 ![Screenshot (4)](https://user-images.githubusercontent.com/92115037/210602530-86610c57-de92-44f4-bc55-729f00b65178.png)
 
+
+Languages used in the project:-
 
 HTML
 
