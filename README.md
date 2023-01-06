@@ -12,7 +12,7 @@ This web based education application has been developed for the accomplishment o
 
 Project Link -https://orange-grass-01bbf1e00.2.azurestaticapps.net
 
-project demo video link - 
+project demo video link - https://youtu.be/Z7h9dT2KIto
 
 Azure technologies used for Project
 Static web apps
