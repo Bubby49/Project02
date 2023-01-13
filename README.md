@@ -25,6 +25,7 @@ Has collection of many web pages including Home, About Us, Contact, Menu, Educat
 User can know about Educational information through this website.
 Included the feedback Survey form to increase the scope of improvement.
 Includes an interactive chat bot for a better interface.
+
 Screenshots
 
 About Us -
